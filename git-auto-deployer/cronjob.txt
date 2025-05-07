@@ -1,0 +1,2 @@
+Cronjob to run the script : 
+* * * * * /home/ubuntu/scripts/git-hook.sh >> /var/log/autopull.log 2>&1
